@@ -1,0 +1,7 @@
+H:\CodeC#\AssignmentMID_38958\AssignmentMID_38958\obj\Debug\AssignmentMID_38958.csprojAssemblyReference.cache
+H:\CodeC#\AssignmentMID_38958\AssignmentMID_38958\obj\Debug\AssignmentMID_38958.csproj.CoreCompileInputs.cache
+H:\CodeC#\AssignmentMID_38958\AssignmentMID_38958\bin\Debug\AssignmentMID_38958.exe.config
+H:\CodeC#\AssignmentMID_38958\AssignmentMID_38958\bin\Debug\AssignmentMID_38958.exe
+H:\CodeC#\AssignmentMID_38958\AssignmentMID_38958\bin\Debug\AssignmentMID_38958.pdb
+H:\CodeC#\AssignmentMID_38958\AssignmentMID_38958\obj\Debug\AssignmentMID_38958.exe
+H:\CodeC#\AssignmentMID_38958\AssignmentMID_38958\obj\Debug\AssignmentMID_38958.pdb
